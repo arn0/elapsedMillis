@@ -3,5 +3,5 @@ idf_component_register(SRCS
                         INCLUDE_DIRS 
                             "./"
                         REQUIRES
-                            arduino-esp32-port
+                            
                         )
